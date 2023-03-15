@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jayhalani@gmail.com**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs.**
+- ⚡ Fun fact **The best thing about a Boolean is even if you are wrong, you are only off by a bit.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
