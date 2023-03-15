@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jayhalani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SFAxil8_3qGgsMEa1JV_BIDqJL7-GkBH/view?usp=share_link](https://drive.google.com/file/d/1SFAxil8_3qGgsMEa1JV_BIDqJL7-GkBH/view?usp=share_link)
+- ⚡ Fun fact **The shortest distance between two points on a keyboard is the space bar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
