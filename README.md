@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/jayhalani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jayhalani/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/8405035/jay-halani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/8405035/jay-halani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayhalani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8405035/jay-halani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8405035/jay-halani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
