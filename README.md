@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jayhalani@gmail.com**
 
-- ⚡ Fun fact **The shortest distance between two points on a keyboard is the space bar.**
+- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
