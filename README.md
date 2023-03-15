@@ -1,3 +1,5 @@
+![MasterHead align="center"](https://media.licdn.com/dms/image/D4D16AQEupGSfRZJYXA/profile-displaybackgroundimage-shrink_350_1400/0/1678861540712?e=1684368000&v=beta&t=NKly-1YKXCct0dx3705glnbHKKRdDG9SOPbQ-LUO11s)
+
 <h1 align="center">Hi 👋, I'm Jay Halani</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="jayrhalani" />
