@@ -1,4 +1,4 @@
-![MasterHead align="center"](https://media.licdn.com/dms/image/D4D16AQEupGSfRZJYXA/profile-displaybackgroundimage-shrink_350_1400/0/1678861540712?e=1684368000&v=beta&t=NKly-1YKXCct0dx3705glnbHKKRdDG9SOPbQ-LUO11s)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHYjK9fkhqsEQ/profile-displaybackgroundimage-shrink_350_1400/0/1678861371498?e=1684368000&v=beta&t=61t28gmEUj8qqu8gqPzIQOKY17RVdlOG8xuh2vA_Hxg)
 
 <h1 align="center">Hi 👋, I'm Jay Halani</h1>
 <h3 align="center">A passionate Android developer from India</h3>
